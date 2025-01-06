@@ -2,7 +2,14 @@
 
 ## 1. Objective
 
-To evaluate the financial viability of opening a Yauatcha restaurant in Chennai by analyzing the costs, revenue, and profitability associated with this venture. This model will assist Restro & Club Pvt. Ltd. in deciding whether to approach AK Hospitality for a sub-franchise agreement.
+  Spice Traditions, a renowned fine-dining Indian restaurant chain celebrated for its authentic flavors and premium dining experience, is currently operating in India at the following locations under the master franchise of Gourmet Ventures Pvt. Ltd.:
+  
+  Delhi
+  Hyderabad
+  Pune
+  
+  Epicurean Hospitality Pvt. Ltd. is exploring the opportunity to launch Spice Traditions in Chennai. Before approaching Gourmet Ventures for a sub-franchise agreement, it seeks to ensure that the venture will be financially viable and profitable.
+
 
 ## 2. Inputs and Assumptions
 
